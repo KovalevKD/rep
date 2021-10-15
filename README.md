@@ -11,4 +11,17 @@
 3)root@f798856ead4d:/home# uname -a
   Linux f798856ead4d 4.19.0-16-amd64 #1 SMP Debian 4.19.181-1 (2021-03-19) x86_64 x86_64 x86_64 GNU/Linux
   
+4)root@f798856ead4d:/home# uname -s
+  Linux
+
+5)root@f798856ead4d:/home# uname -r
+  4.19.0-16-amd64
   
+6)root@f798856ead4d:/home# date
+  Fri Oct 15 15:47:41 MSK 2021
+  
+7)
+
+8)
+
+9)
